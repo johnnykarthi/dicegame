@@ -1,0 +1,88 @@
+
+/* Main */
+
+.main{
+    background-color: rgb(89, 0, 156);
+    text-align: center;
+}
+
+
+/* Heading */
+
+hr{
+    color: azure;
+}
+
+.title{
+    color: azure;
+    text-align: center;
+}
+
+.sub-text{
+    color: azure;
+    font-size: 0.6rem;
+    letter-spacing: 3px;
+}
+
+/* Winning result */
+
+
+.heading{
+    color: rgb(189, 255, 169);
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    margin-top: 3rem;
+}
+
+/* Image */
+
+img{
+    width: 40%;
+}
+
+.player{
+    text-align: center;
+    color: rgb(252, 255, 169);
+    font-family: 'Pacifico', cursive;
+}
+
+
+
+/* footer */
+
+
+.footers{
+    padding: 5% 10%;
+    background-color: rgb(241, 241, 241);
+    text-align: center;
+}
+
+.icoo{
+    color: rgb(104, 104, 104);
+    margin-right: 1rem;
+}
+.ico{
+    color: rgb(104, 104, 104);
+
+}
+
+.ico:hover{
+    color: rgb(89, 0, 156);
+
+}
+.icoo:hover{
+    color: rgb(89, 0, 156);
+
+}
+
+.foot-text{
+    color: rgb(104, 104, 104);
+}
+
+
+
+
+
+
+
+
